@@ -51,7 +51,7 @@ I share:
 ### 🌐 Connect With Me
 [![Blog](https://img.shields.io/badge/Blog-JsonOnRails.dev-CC0000?style=for-the-badge)](#)  
 [![Threads](https://img.shields.io/badge/Threads-JsonOnRails-000000?style=for-the-badge&logo=threads)](#)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-JasonMcBride-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-JasonMcBride-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://ca.linkedin.com/in/iamjaymcbride)
 
 ---
 
